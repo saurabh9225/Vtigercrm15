@@ -19,3 +19,13 @@
 <p>My Location Is Pune</p>
 <p>My Location Is Pune</p>
 </html>
+
+
+driver.manage().window().maximize();
+driver.manage().window().manimize();
+driver.manage().window().fullscreen();
+driver.manage().window().getsize();
+driver.manage().window().setsize();
+driver.manage().window().getposition();
+
+
